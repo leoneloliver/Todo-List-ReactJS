@@ -36,7 +36,6 @@ var TodoList = React.createClass({
         </div>
         <div className="rights">Made with&nbsp;&nbsp;<i className="fa fa-heart-o" aria-hidden="true"></i>&nbsp;&nbsp;by Leonel</div>
       </div>
-      
     )
   }
 });
