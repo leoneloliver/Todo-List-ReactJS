@@ -11,8 +11,8 @@ CSS dependencies:
 Javascript dependencies:
 ```html
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-<script type="text/javascript" src="https://npmcdn.com/react@15.3.0/dist/react.min.jss"></script>
-<script type="text/javascript" src="https://fb.me/react-with-addons-15.0.1.min.jss"></script>
+<script type="text/javascript" src="https://npmcdn.com/react@15.3.0/dist/react.min.js"></script>
+<script type="text/javascript" src="https://fb.me/react-with-addons-15.0.1.min.js"></script>
 <script type="text/javascript" src="https://npmcdn.com/react-dom@15.3.0/dist/react-dom.min.js"></script>
 ```
 
